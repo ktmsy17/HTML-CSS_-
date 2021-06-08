@@ -75,11 +75,9 @@ footer {
     display: block;
   }
   .step-box {
-    width: 90%;
     margin: 20px 0;
   }
-
-  footer {
+  .footer {
     width: 100%;
   }
 }
